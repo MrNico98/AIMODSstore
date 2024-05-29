@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://mrnico98.github.io/AIMODSstore/published/AIMODS-Store.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/MrNico98/AIMODSstore/main/published/AIMODS-Store.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
